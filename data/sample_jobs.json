@@ -1,0 +1,47 @@
+{
+    "Python Developer": [
+        "Python",
+        "SQL",
+        "Git",
+        "OOP",
+        "REST API",
+        "FastAPI"
+    ],
+    "Backend Developer": [
+        "Python",
+        "FastAPI",
+        "Flask",
+        "SQL",
+        "PostgreSQL",
+        "REST API",
+        "Docker",
+        "Git"
+    ],
+    "Software Developer Intern": [
+        "Python",
+        "C++",
+        "Java",
+        "Data Structures",
+        "Algorithms",
+        "Git",
+        "SQL"
+    ],
+    "AI/ML Intern": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "Pandas",
+        "NumPy",
+        "Scikit-learn",
+        "TensorFlow",
+        "PyTorch"
+    ],
+    "Data Analyst Intern": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Machine Learning",
+        "Excel"
+    ]
+}
